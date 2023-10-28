@@ -1,8 +1,0 @@
-﻿  CSVGenerator.cpp
-C:\Users\he_4e\OneDrive\Рабочий стол\gen_csv\gen_csv\CSVGenerator.cpp(16,36): warning C4101: e: неиспользованная локальная переменная
-C:\Users\he_4e\OneDrive\Рабочий стол\gen_csv\gen_csv\CSVGenerator.cpp(21,32): warning C4101: e: неиспользованная локальная переменная
-C:\Users\he_4e\OneDrive\Рабочий стол\gen_csv\gen_csv\CSVGenerator.cpp(106,24): warning C4244: return: преобразование "double" в "float", возможна потеря данных
-C:\Users\he_4e\OneDrive\Рабочий стол\gen_csv\gen_csv\CSVGenerator.cpp(117,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\he_4e\OneDrive\Рабочий стол\gen_csv\gen_csv\CSVGenerator.cpp(126,64): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\he_4e\OneDrive\Рабочий стол\gen_csv\gen_csv\CSVGenerator.cpp(142): warning C4715: CSVGenerator::CellGenerator: значение возвращается не при всех путях выполнения
-  gen_csv.vcxproj -> C:\Users\he_4e\OneDrive\Рабочий стол\gen_csv\x64\Debug\gen_csv.exe
